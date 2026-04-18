@@ -1,0 +1,206 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #0d1b2a;
+  color: #e0e0e0;
+}
+
+.navbar {
+  background-color: #0a1628;
+}
+
+.navbar-brand {
+  color: #4fc3f7 !important;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.nav-link {
+  color: #cccccc !important;
+}
+
+.nav-link:hover {
+  color: #4fc3f7 !important;
+}
+
+#inicio {
+  background-color: #0a1628;
+  color: white;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+#inicio h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+#inicio h1 span {
+  color: #4fc3f7;
+}
+
+#inicio p {
+  color: #aaaaaa;
+  font-size: 18px;
+  margin-top: 15px;
+}
+
+#inicio a {
+  background-color: #1565c0;
+  color: white;
+  padding: 12px 28px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 25px;
+}
+
+#inicio a:hover {
+  background-color: #0d47a1;
+}
+
+section {
+  padding: 60px 20px;
+}
+
+section h2 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.subtitulo {
+  color: #90a4ae;
+  margin-bottom: 40px;
+}
+
+#impresora {
+  background-color: #112240;
+}
+
+.tabla-impresora th {
+  background-color: #0a1628;
+  color: #4fc3f7;
+}
+
+.tabla-impresora td {
+  background-color: #1a2e4a;
+  color: #e0e0e0;
+}
+
+.tabla-impresora {
+  border-color: #1e3a5f;
+}
+
+#filamentos {
+  background-color: #0d1b2a;
+}
+
+.card {
+  background-color: #112240;
+  border: 1px solid #1e3a5f;
+  border-radius: 10px;
+  color: #e0e0e0;
+}
+
+.card-title {
+  color: #4fc3f7;
+  font-weight: bold;
+}
+
+.circulo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-bottom: 12px;
+}
+
+#modelos {
+  background-color: #112240;
+}
+
+.accordion-item {
+  background-color: #1a2e4a;
+  border: 1px solid #1e3a5f;
+}
+
+.accordion-button {
+  background-color: #1a2e4a;
+  color: #e0e0e0;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #1565c0;
+  color: white;
+}
+
+.accordion-body {
+  background-color: #112240;
+  color: #b0bec5;
+}
+
+#contacto {
+  background-color: #0a1628;
+  color: white;
+}
+
+#contacto h2 {
+  color: #4fc3f7;
+}
+
+.subtitulo2 {
+  color: #90a4ae;
+  margin-bottom: 30px;
+}
+
+.form-control, .form-select {
+  background-color: #1a2e4a;
+  border: 1px solid #1e3a5f;
+  color: #e0e0e0;
+}
+
+.form-control::placeholder {
+  color: #607d8b;
+}
+
+.form-control:focus, .form-select:focus {
+  background-color: #1a2e4a;
+  color: #e0e0e0;
+  border-color: #4fc3f7;
+  box-shadow: none;
+}
+
+.form-select option {
+  background-color: #1a2e4a;
+}
+
+.boton-enviar {
+  background-color: #1565c0;
+  color: white;
+  border: none;
+  padding: 12px 28px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.boton-enviar:hover {
+  background-color: #0d47a1;
+  color: white;
+}
+
+footer {
+  background-color: #0a1628;
+  color: #777;
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+}
+
+footer span {
+  color: #4fc3f7;
+}
+.texto-figuras {
+  text-align: center;
+
+
+}
