@@ -9,17 +9,17 @@ body {
 }
 
 .navbar-brand {
-  color: #4fc3f7 !important;
+  color: #4fc3f7;
   font-weight: bold;
   font-size: 22px;
 }
 
 .nav-link {
-  color: #cccccc !important;
+  color: #cccccc ;
 }
 
 .nav-link:hover {
-  color: #4fc3f7 !important;
+  color: #4fc3f7 ;
 }
 
 #inicio {
